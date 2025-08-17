@@ -4,7 +4,7 @@
 
 
 ## 🏆 Competition Submission
-Note: The epics and app code are from an alternative implementation idea and not relevant.
+Note: The epics and app code are from an alternative implementation idea (:. Ignore.
 
 **One-sentence description:** Skej is a decentralized scheduling protocol that enables privacy-preserving meeting coordination between ENS addresses using ZK proofs on Zircuit, with token payments for premium scheduling features and AI agent services.
 
@@ -222,20 +222,8 @@ Fee Distribution:
 
 #### Primary: Web3 Natives (0-18 months)
 - ENS domain owners (5M+)
-- DeFi power users needing privacy-first scheduling
+- Freelancers, creators
 - AI agent developers and operators
-- **Revenue potential**: $10M ARR
-
-#### Secondary: Enterprise Adoption (18-36 months)
-- Fortune 500 companies exploring Web3 identity
-- Consulting firms needing client scheduling privacy
-- Healthcare providers requiring HIPAA-compliant scheduling
-- **Revenue potential**: $100M+ ARR
-
-#### Tertiary: Mass Market (36+ months)
-- General consumers frustrated with centralized scheduling
-- Integration with popular calendar applications
-- **Revenue potential**: $1B+ ARR
 
 ### Competitive Analysis
 | Solution | Privacy | Decentralized | AI-Friendly | Cost |
@@ -314,17 +302,12 @@ Fee Distribution:
 
 ## Team Background
 
-### [Your Name] - Founder & Protocol Architect
-- **Background**: 5+ years in blockchain infrastructure and zero-knowledge systems
-- **Previous Experience**: Built decentralized identity solutions serving 10K+ users
-- **Expertise**: Deep understanding of ENS ecosystem, Web3 scheduling challenges, and AI agent coordination
-- **Vision**: Passionate about creating privacy-first infrastructure that scales Web3 adoption
-- **Technical Skills**: Solidity, ZK-SNARKs/STARKs, IPFS, ENS integration, economic protocol design
-
-### Technical Advisor - [Optional Additional Team Member]
-- **Background**: Former engineer at major scheduling platform (Calendly/Google Calendar)
-- **Expertise**: Large-scale calendar systems, privacy-preserving algorithms
-- **Role**: Ensures enterprise-grade reliability and user experience
+### Moi - Founder
+- **Background**: Product founder with VC background and 8ys in blockchain
+- **Previous Experience**: Built a zk-use case consumer app used at Devcon (DIP-45) last year
+- **Expertise**: Consumer apps, product and traction
+- **Vision**: Passionate about creating privacy-enhancing infrastructure that can enable new ways of doing things
+- **Technical Skills**: Zupass, 0xparc SDK, Supabase, Cursor with AI, experimentative CPO
 
 ---
 
