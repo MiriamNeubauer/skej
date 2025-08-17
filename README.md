@@ -187,26 +187,13 @@ ZRC Token Integration
 ## Token Mechanics (ZRC Integration) - this is really made up at this point
 
 ### Revenue Streams
-- **Premium Scheduling**: $1-5 in ZRC tokens per high-priority meeting
-- **AI Agent Services**: $0.10-1.00 per autonomous scheduling action
-- **Calendar Analytics**: $10-50/month for usage insights
-- **Enterprise Features**: Custom pricing for bulk scheduling
+- Premium Scheduling, AI Agent Services, Calendar Analytics, Enterprise Features
 
 ### Token Utility
-- **Gas Abstraction**: ZRC tokens pay for Zircuit gas fees
-- **Feature Access**: Premium scheduling slots and advanced privacy
-- **Agent Payments**: Compensate AI agents for scheduling services
-- **Staking Rewards**: Calendar uptime and accuracy incentives
-- **Governance**: Protocol upgrades and parameter adjustments
+- Gas Abstraction, Feature Access, Agent Payments, Staking Rewards, Governance
 
-### Economic Model - this is really made up at this point
-```
-Fee Distribution:
-├── 40% Protocol Development
-├── 30% AI Agent Rewards
-├── 20% Calendar Reliability Incentives  
-└── 10% Zircuit Network Fees
-```
+### Economic Model
+- Fee Distribution
 
 ---
 
@@ -269,26 +256,11 @@ Fee Distribution:
 - Implement ZRC token payment systems
 - Advanced ZK circuits for complex scheduling
 - Mobile applications for mainstream users
-- **Milestone**: 50 active AI agents, $100K+ in ZRC token volume
 
-### Phase 3: Enterprise Features (Months 12-18)
-- Multi-party meeting coordination
-- Recurring meeting patterns and templates
-- Calendar analytics and insights dashboard
-- Enterprise-grade security and compliance features
-- **Milestone**: 10 enterprise customers, $1M ARR
-
-### Phase 4: Ecosystem Expansion (Months 18-24)
-- Integration with major calendar providers
-- Cross-chain scheduling (Ethereum, Polygon, Arbitrum)
-- Advanced AI scheduling agents marketplace
-- Governance token launch and DAO formation
-- **Milestone**: 100K+ active users, protocol sustainability
-
-### Long-term Vision (24+ months)
+### Long-term Vision
 - AI agent economy built on Skej primitives
-- Fun matching apps
-- Global privacy-first scheduling standard
+- Enable new matching apps
+- Privacy-first scheduling standard
 
 ---
 
