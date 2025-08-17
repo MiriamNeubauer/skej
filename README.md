@@ -8,7 +8,7 @@ Note: The epics and app code are from an alternative implementation idea and not
 
 **One-sentence description:** Skej is a decentralized scheduling protocol that enables privacy-preserving meeting coordination between ENS addresses using ZK proofs on Zircuit, with token payments for premium scheduling features and AI agent services.
 
-**Why we should win:** Skej solves the trillion-dollar scheduling coordination problem with true Web3 principles while creating the first privacy-first scheduling infrastructure specifically designed for the emerging AI agent economy - leveraging all of Zircuit's unique capabilities like speed, low costs and Ethereum securities.
+**Why we should win:** Skej solves the trillion-dollar scheduling coordination problem with Web3 principles while creating a first privacy-first scheduling infrastructure specifically designed for the emerging AI agent and creator economy - leveraging all of Zircuit's unique capabilities like speed, low costs and Ethereum securities.
 
 ---
 
@@ -22,7 +22,7 @@ Note: The epics and app code are from an alternative implementation idea and not
 - **Web3 identity systems** (ENS) have no native scheduling layer, forcing users back to Web2 tools
 
 ### Specific Pain Points
-1. **Privacy Paradox**: To find mutual availability, both parties must expose their full calendars
+1. **Privacy Paradox**: To find mutual availability, both parties must expose slots in their calendars
 2. **Platform Lock-in**: Scheduling data trapped in centralized silos
 3. **AI Agent Barriers**: High gas costs and centralized APIs prevent autonomous agent scheduling
 4. **Identity Fragmentation**: ENS identities can't directly coordinate scheduling
@@ -36,7 +36,7 @@ Note: The epics and app code are from an alternative implementation idea and not
 Skej creates a **privacy-first scheduling layer** for ENS addresses using Zircuit's ZK rollup capabilities, enabling:
 - **Zero-knowledge availability matching** without revealing full calendars
 - **Decentralized coordination** through blockchain events and IPFS
-- **Base token payments** for premium scheduling features
+- **Zircuit (ZRC) token payments** for premium scheduling features
 - **AI agent optimization** with low-cost, high-frequency interactions
 
 ### Leveraging Zircuit's Unique Capabilities
@@ -47,7 +47,7 @@ Skej creates a **privacy-first scheduling layer** for ENS addresses using Zircui
 - **Trust minimization** for autonomous agent interactions
 
 #### 2. Account Abstraction Support
-- **Gasless scheduling** for end users (sponsors pay gas in Base tokens)
+- **Gasless scheduling** for end users (sponsors pay gas in ZRC tokens)
 - **Batch operations** for AI agents managing multiple calendars
 - **Smart wallet integration** for seamless UX
 
@@ -76,7 +76,7 @@ Skej creates a **privacy-first scheduling layer** for ENS addresses using Zircui
                         │                 │
                         │ • ZK Matching   │
                         │ • Event System  │
-                        │ • Base Payments │
+                        │ • ZRC Payments │
                         │ • AI Agent APIs │
                         └─────────────────┘
                                  │
@@ -110,14 +110,14 @@ ZK Circuit: MutualAvailability
 ```
 Zircuit Smart Contracts
 ├── SchedulingCore: Meeting proposals & confirmations
-├── PaymentHandler: Base token integration
+├── PaymentHandler: ZRC token integration
 ├── ZKVerifier: Availability proof verification
 └── EventEmitter: Decentralized notifications
 ```
 
 #### Layer 4: Economic Layer
 ```
-Base Token Integration
+ZRC Token Integration
 ├── Premium Features: Priority scheduling, extended slots
 ├── Agent Fees: AI agents charge for scheduling services  
 ├── Network Fees: Protocol sustainability
@@ -127,7 +127,7 @@ Base Token Integration
 ### Data Flow Architecture
 
 ```
-1. ENS Resolution     →  2. Privacy Matching  →  3. Base Payment
+1. ENS Resolution     →  2. Privacy Matching  →  3. ZRC Payment
    alice.eth             ZK Proof Generation      Premium Features
    ↓                     ↓                        ↓
    Calendar Endpoint     Mutual Slots Found       Transaction Fee
@@ -148,14 +148,14 @@ Base Token Integration
    - Connect ENS address (alice.eth)
    - Upload encrypted availability to IPFS
    - Update ENS content record to point to calendar
-   - Stake Base tokens for premium features
+   - Stake ZRC tokens for premium features
 
 2. **Scheduling Flow**
    - Request meeting with bob.eth
    - Skej resolves ENS → calendar endpoint
    - ZK circuit finds mutual availability privately
    - Present only overlapping slots to both parties
-   - Both select preferred slot, pay Base token fee if premium
+   - Both select preferred slot, pay ZRC token fee if premium
    - Meeting confirmed on Zircuit with ZK proof
 
 3. **Privacy Guarantees**
@@ -169,13 +169,13 @@ Base Token Integration
 1. **Autonomous Setup**
    - Deploy with ENS identity (scheduler-ai.eth)
    - Configure scheduling preferences via smart contract
-   - Maintain Base token balance for operations
+   - Maintain ZRC token balance for operations
 
 2. **Scheduling Automation**
    - Monitor Zircuit events for scheduling requests
    - Generate ZK proofs of availability automatically
    - Execute complex scheduling logic (multi-party, recurring)
-   - Charge Base tokens for premium AI scheduling services
+   - Charge ZRC tokens for premium AI scheduling services
 
 3. **Cross-Agent Coordination**
    - AI agents can schedule with other AI agents
@@ -184,16 +184,16 @@ Base Token Integration
 
 ---
 
-## Token Mechanics (Base Integration)
+## Token Mechanics (ZRC Integration)
 
 ### Revenue Streams
-- **Premium Scheduling**: $1-5 in Base tokens per high-priority meeting
+- **Premium Scheduling**: $1-5 in ZRC tokens per high-priority meeting
 - **AI Agent Services**: $0.10-1.00 per autonomous scheduling action
 - **Calendar Analytics**: $10-50/month for usage insights
 - **Enterprise Features**: Custom pricing for bulk scheduling
 
 ### Token Utility
-- **Gas Abstraction**: Base tokens pay for Zircuit gas fees
+- **Gas Abstraction**: ZRC tokens pay for Zircuit gas fees
 - **Feature Access**: Premium scheduling slots and advanced privacy
 - **Agent Payments**: Compensate AI agents for scheduling services
 - **Staking Rewards**: Calendar uptime and accuracy incentives
@@ -263,7 +263,7 @@ Fee Distribution:
 ### For the Web3 Ecosystem
 - **Infrastructure Layer**: Critical missing piece for ENS utility
 - **Privacy Innovation**: Demonstrates ZK applicability beyond finance
-- **Economic Activity**: New revenue streams for Base ecosystem
+- **Economic Activity**: New revenue streams for ZRC ecosystem
 - **Adoption Driver**: Practical utility encouraging ENS adoption
 
 ### For Enterprises
@@ -285,10 +285,10 @@ Fee Distribution:
 
 ### Phase 2: AI Agent Integration (Months 6-12)
 - Release AI agent SDKs and APIs
-- Implement Base token payment systems
+- Implement ZRC token payment systems
 - Advanced ZK circuits for complex scheduling
 - Mobile applications for mainstream users
-- **Milestone**: 50 active AI agents, $100K+ in Base token volume
+- **Milestone**: 50 active AI agents, $100K+ in ZRC token volume
 
 ### Phase 3: Enterprise Features (Months 12-18)
 - Multi-party meeting coordination
@@ -339,12 +339,12 @@ Fee Distribution:
 ### Adoption Metrics
 - **User Growth**: 10K users by month 12
 - **AI Agent Integration**: 100 active agents by month 18
-- **Transaction Volume**: $1M+ Base token volume by month 24
+- **Transaction Volume**: $1M+ ZRC token volume by month 24
 - **Enterprise Adoption**: 50 companies by month 30
 
 ### Economic Metrics
 - **Revenue Growth**: $10M ARR by year 3
-- **Token Utility**: 80%+ of Base tokens actively staked/used
+- **Token Utility**: 80%+ of ZRC tokens actively staked/used
 - **Market Share**: 25% of Web3-native scheduling by year 5
 
 ---
