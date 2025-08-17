@@ -1,3 +1,5 @@
+![Skej Logo](assets/assets/logo-skej.png)
+
 # Skej - "Send me your skej" - Privacy-first ENS calendar scheduling infra on Zirkuit for the AI Agent Economy
 
 
