@@ -184,7 +184,7 @@ ZRC Token Integration
 
 ---
 
-## Token Mechanics (ZRC Integration)
+## Token Mechanics (ZRC Integration) - this is really made up at this point
 
 ### Revenue Streams
 - **Premium Scheduling**: $1-5 in ZRC tokens per high-priority meeting
@@ -199,7 +199,7 @@ ZRC Token Integration
 - **Staking Rewards**: Calendar uptime and accuracy incentives
 - **Governance**: Protocol upgrades and parameter adjustments
 
-### Economic Model
+### Economic Model - this is really made up at this point
 ```
 Fee Distribution:
 ├── 40% Protocol Development
@@ -234,7 +234,7 @@ Fee Distribution:
 
 ---
 
-## Why It Matters
+## Why It Matters - "Stripe/API for Time"
 
 ### For Individual Users
 - **Privacy Protection**: Coordinate meetings without exposing full calendar contents
@@ -251,14 +251,7 @@ Fee Distribution:
 ### For the Web3 Ecosystem
 - **Infrastructure Layer**: Critical missing piece for ENS utility
 - **Privacy Innovation**: Demonstrates ZK applicability beyond finance
-- **Economic Activity**: New revenue streams for ZRC ecosystem
 - **Adoption Driver**: Practical utility encouraging ENS adoption
-
-### For Enterprises
-- **Compliance**: Privacy-first design meets regulatory requirements
-- **Integration**: Works with existing Web3 identity infrastructure
-- **Scalability**: Handle organization-wide scheduling without data silos
-- **Innovation**: Enable new business models around scheduling services
 
 ---
 
@@ -293,16 +286,15 @@ Fee Distribution:
 - **Milestone**: 100K+ active users, protocol sustainability
 
 ### Long-term Vision (24+ months)
-- Industry-standard scheduling infrastructure for Web3
 - AI agent economy built on Skej primitives
-- Integration with AR/VR metaverse platforms
+- Fun matching apps
 - Global privacy-first scheduling standard
 
 ---
 
 ## Team Background
 
-### Moi - Founder
+### Miri - Founder
 - **Background**: Product founder with VC background and 8ys in blockchain
 - **Previous Experience**: Built a zk-use case consumer app used at Devcon (DIP-45) last year
 - **Expertise**: Consumer apps, product and traction
@@ -313,22 +305,14 @@ Fee Distribution:
 
 ## Success Metrics
 
-### Technical Metrics
-- **Gas Efficiency**: <$0.01 per scheduling interaction on Zircuit
+### Technical, Economic, Adoption Metrics
+- **Gas Efficiency**: low fees per scheduling interaction on Zircuit
 - **Privacy Preservation**: ZK proofs ensure no calendar information leakage
-- **Performance**: <2 second meeting confirmation
-- **Reliability**: 99.9% uptime for availability resolution
-
-### Adoption Metrics
-- **User Growth**: 10K users by month 12
-- **AI Agent Integration**: 100 active agents by month 18
-- **Transaction Volume**: $1M+ ZRC token volume by month 24
-- **Enterprise Adoption**: 50 companies by month 30
-
-### Economic Metrics
-- **Revenue Growth**: $10M ARR by year 3
-- **Token Utility**: 80%+ of ZRC tokens actively staked/used
-- **Market Share**: 25% of Web3-native scheduling by year 5
+- **Performance**: meeting confirmation within seconds
+- **AI Agent Integration**: launch active agents
+- **Transaction Volume**: ZRC token volume
+- **Revenue Growth**: Generate fees
+- **Token Utility**: % ZRC tokens actively staked/used
 
 ---
 
@@ -338,4 +322,4 @@ Fee Distribution:
 
 By leveraging Zircuit's unique capabilities - sequencer security, account abstraction, and network performance - Skej enables scheduling coordination that's impossible on any other blockchain. We're not just building another scheduling app; we're creating the infrastructure for a privacy-first, AI-native scheduling economy.
 
-The trillion-dollar scheduling problem meets Web3 innovation. **This is how we solve it.**
+The scheduling problem meets Web3 innovation. **This is how we solve it.**
